@@ -4,7 +4,7 @@
 
 Functional programming berfokus pada fungsi-fungsi yang independen, di mana setiap fungsi hanya mengambil masukan dan mengembalikan keluaran tanpa mempengaruhi data yang ada di luar fungsi tersebut. Dalam functional programming, tidak ada konsep objek atau kelas, dan pemrograman dilakukan melalui fungsi-fungsi yang menghasilkan  nilai. Sedangkan, OOP lebih berfokus pada objek dan kelas. Dalam OOP, sebuah objek adalah instance dari sebuah kelas yang memiliki atribut dan method. Konsep ini memungkinkan pemrogram untuk membuat struktur program yang lebih kompleks dan abstrak, karena data dan fungsi yang berhubungan dapat dibungkus dalam satu objek. Dalam program fungsional, variabel dan fungsi adalah elemen utama dari kode, sedangkan dalam program berorientasi objek, objek dan metode adalah elemen kuncinya.
 
-3. berikan apa saja contoh pengimplementasian dari oop
+2. berikan apa saja contoh pengimplementasian dari oop
 
 Contoh pengimplementasian dari OOP 
 1. Pembuatan kelas dan objek: Dalam OOP, kelas dapat dibuat sebagai cetak biru untuk objek. Misalnya, kita bisa membuat kelas Mahasiswa yang memiliki atribut seperti  nama, NIM, dan nilai. Kemudian, kita bisa membuat beberapa objek seperti mahasiswa A, mahasiswa B, dan lain sebagainya.
