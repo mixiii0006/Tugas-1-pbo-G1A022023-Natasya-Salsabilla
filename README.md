@@ -14,8 +14,9 @@ Contoh pengimplementasian dari OOP
 5.Abstraction: OOP memungkinkan kita untuk membuat kelas atau metode yang tidak perlu mengetahui detail implementasi dari kelas lain. Hal ini disebut abstraksi atau abstraction. Contoh pengimplementasian abstraction adalah dengan menggunakan interface atau abstract class. Misalnya, kita membuat kelas Vehicle dengan metode start() dan stop() yang diimplementasikan di kelas turunan seperti Car dan Motorcycle.
 
 Dalam bidang aplikasi dan teknologi diantaranya:
-1.Aplikasi web: OOP digunakan dalam kerangka kerja web seperti Ruby on Rails, Django, dan Flask. Pengembang menggunakan kelas dan objek untuk membangun aplikasi web yang dapat diandalkan, mudah diubah, dan mudah diatur.
-2.Game: OOP digunakan dalam pengembangan game, karena game sering kali memiliki banyak objek yang berbeda yang harus diatur. Contohnya adalah Unity, sebuah platform pengembangan game yang memanfaatkan konsep OOP dalam mengembangkan game.
-3. Aplikasi mobile: OOP juga digunakan dalam pengembangan aplikasi mobile seperti Android dan iOS. Dalam Android, pengembang menggunakan kelas dan objek untuk membangun aplikasi mobile yang dapat diandalkan dan mudah digunakan.
-4. Robotika: OOP digunakan dalam pengembangan robotika. Robot sering kali memiliki banyak sensor dan aktuator yang perlu diatur dan dikelola. Contohnya adalah Robot Operating System (ROS), sebuah framework yang memanfaatkan konsep OOP untuk mengembangkan robotika.
-5. Sistem manajemen basis data: OOP digunakan dalam pengembangan sistem manajemen basis data seperti Oracle dan MySQL. Pengembang menggunakan kelas dan objek untuk mengorganisasi dan mengelola data dalam basis data.
+1.	Aplikasi web: OOP digunakan dalam kerangka kerja web seperti Ruby on Rails, Django, dan Flask. Pengembang menggunakan kelas dan objek untuk membangun aplikasi web yang dapat diandalkan, mudah diubah, dan mudah diatur.
+2.	Game: OOP digunakan dalam pengembangan game, karena game sering kali memiliki banyak objek yang berbeda yang harus diatur. Contohnya adalah Unity, sebuah platform pengembangan game yang memanfaatkan konsep OOP dalam mengembangkan game.
+3.	Aplikasi mobile: OOP juga digunakan dalam pengembangan aplikasi mobile seperti Android dan iOS. Dalam Android, pengembang menggunakan kelas dan objek untuk membangun aplikasi mobile yang dapat diandalkan dan mudah digunakan.
+4.	Robotika: OOP digunakan dalam pengembangan robotika. Robot sering kali memiliki banyak sensor dan aktuator yang perlu diatur dan dikelola. Contohnya adalah Robot Operating System (ROS), sebuah framework yang memanfaatkan konsep OOP untuk mengembangkan robotika.
+5.	Sistem manajemen basis data: OOP digunakan dalam pengembangan sistem manajemen basis data seperti Oracle dan MySQL. Pengembang menggunakan kelas dan objek untuk mengorganisasi dan mengelola data dalam basis data.
+
